@@ -5,7 +5,7 @@ import { useAuth } from './Auth'
 import { signOut } from '@/lib/auth'
 import { useRouter } from 'next/navigation'
 import { Button } from '@/components/ui/button'
-import Image from 'next/Image';
+import Image from 'next/image';
 // import { useAuth } from './Auth'
 
 export default function Header() {
